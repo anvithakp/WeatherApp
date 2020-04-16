@@ -16,3 +16,5 @@ Used LiveData as the data-binding source to notify the UI about changes in the w
 Made use of RecyclerView for efficiently displaying large lists.
 Made a web service API request and handled the response and implemented a network layer using the Retrofit library.
 Parsed the JSON response from the web service into the weather app’s live data using the Moshi Library.
+
+![ScreenShot - 1](https://github.com/anvithakp/WeatherApp/blob/master/screenshot1.png)
