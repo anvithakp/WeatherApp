@@ -17,6 +17,12 @@
 6. Made a web service API request and handled the response and implemented a network layer using the Retrofit library.
 7. Parsed the JSON response from the web service into the weather app’s live data using the Moshi Library.
 
+### Resources: ###
+<https://codelabs.developers.google.com/android-kotlin-fundamentals/>
+<https://openweathermap.org/>
+<https://bumptech.github.io/glide/>
+
+
 ## Screenshots ##
 
 ![ScreenShot - 1](https://github.com/anvithakp/WeatherApp/blob/master/screenshot1.png)
