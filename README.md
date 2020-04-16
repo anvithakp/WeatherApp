@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherApp:  
  
 ## App Features: ##
  
@@ -18,9 +18,9 @@
 7. Parsed the JSON response from the web service into the weather app’s live data using the Moshi Library.
 
 ### Resources: ###
-<https://codelabs.developers.google.com/android-kotlin-fundamentals/>
-<https://openweathermap.org/>
-<https://bumptech.github.io/glide/>
+* <https://codelabs.developers.google.com/android-kotlin-fundamentals/>
+* <https://openweathermap.org/>
+* <https://bumptech.github.io/glide/>
 
 
 ## Screenshots ##
