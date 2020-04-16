@@ -18,3 +18,10 @@ Made a web service API request and handled the response and implemented a networ
 Parsed the JSON response from the web service into the weather app’s live data using the Moshi Library.
 
 ![ScreenShot - 1](https://github.com/anvithakp/WeatherApp/blob/master/screenshot1.png)
+
+![ScreenShot - 2](https://github.com/anvithakp/WeatherApp/blob/master/screenshot2.png)
+
+![ScreenShot - 3](https://github.com/anvithakp/WeatherApp/blob/master/screenshot3.png)
+
+![ScreenShot - 4](https://github.com/anvithakp/WeatherApp/blob/master/screenshot4.png)
+
