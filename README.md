@@ -25,11 +25,11 @@
 
 ## Screenshots ##
 
-![ScreenShot - 1](https://github.com/anvithakp/WeatherApp/blob/master/screenshot1.png)
+![ScreenShot - 1](https://github.com/anvithakp/WeatherApp/tree/master/screenshots/screenshot1.png)
 
-![ScreenShot - 2](https://github.com/anvithakp/WeatherApp/blob/master/screenshot2.png)
+![ScreenShot - 2](https://github.com/anvithakp/WeatherApp/tree/master/screenshots/screenshot2.png)
 
-![ScreenShot - 3](https://github.com/anvithakp/WeatherApp/blob/master/screenshot3.png)
+![ScreenShot - 3](https://github.com/anvithakp/WeatherApp/tree/master/screenshots/screenshot3.png)
 
-![ScreenShot - 4](https://github.com/anvithakp/WeatherApp/blob/master/screenshot4.png)
+![ScreenShot - 4](https://github.com/anvithakp/WeatherApp/tree/master/screenshots/screenshot4.png)
 
